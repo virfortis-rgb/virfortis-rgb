@@ -1,4 +1,5 @@
-## Hi there 👋
+## Damien Joubert
+# Ruby on Rails Full Stach Web Developpper
 
 <!--
 **virfortis-rgb/virfortis-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
