@@ -2,7 +2,7 @@
 Ruby on Rails Full Stack Web Developper
 
 I've recently worked on the following projects:
-1. <a href="https://github.com/virfortis-rgb/wheres-my-tofu"></a>
+1. [Where's my Tofu?](https://github.com/virfortis-rgb/wheres-my-tofu)
 
 <!--
 **virfortis-rgb/virfortis-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
