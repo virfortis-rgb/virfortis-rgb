@@ -1,5 +1,8 @@
 ## Damien Joubert
-Ruby on Rails Full Stach Web Developper
+Ruby on Rails Full Stack Web Developper
+
+I've recently worked on the following projects:
+1. <a href="https://github.com/virfortis-rgb/wheres-my-tofu"></a>
 
 <!--
 **virfortis-rgb/virfortis-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
