@@ -1,7 +1,11 @@
-## Damien Joubert
-Full Stack Web Developper (Ruby on Rails )
+<div style="background-color: #152238;">
+<h2>Damien Joubert</h2>
+<p>Full Stack Web Developper (Ruby on Rails)</p>
 
-I started my [coding journey](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D) with [Le Wagon Tokyo <img src="https://www.lewagon.com/assets/lewagon-logo-square-ffe99941106de6d01c248f59bd1c999ad4f5f3da6e8922272c94764a3d2484cc.svg" alt="Le Wagon" width="20" height="20">](https://www.lewagon.com/)
+ <p>
+   I started my [coding journey](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D) with Le Wagon Toyo.
+ </p>
+</div>
 
 <!--
 **virfortis-rgb/virfortis-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
