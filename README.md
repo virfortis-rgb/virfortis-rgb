@@ -1,7 +1,7 @@
 ## Damien Joubert
 Full Stack Web Developper (Ruby on Rails )
 
-I started my [coding journey](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D) with ![Le Wagon Tokyo](https://www.lewagon.com/assets/lewagon-logo-square-ffe99941106de6d01c248f59bd1c999ad4f5f3da6e8922272c94764a3d2484cc.svg)
+I started my [coding journey](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D) with Le Wagon Tokyo <img src="https://www.lewagon.com/assets/lewagon-logo-square-ffe99941106de6d01c248f59bd1c999ad4f5f3da6e8922272c94764a3d2484cc.svg" alt="Le Wagon" width="300" height="200">
 
 
 <!--
