@@ -4,7 +4,7 @@
 
  <p>
    I started my 
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D"></a>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D">programming journey</a>
   with Le Wagon Toyo.
  </p>
 </div>
