@@ -3,7 +3,9 @@
 <p>Full Stack Web Developper (Ruby on Rails)</p>
 
  <p>
-   I started my [coding journey](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D) with Le Wagon Toyo.
+   I started my 
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D"></a>
+  with Le Wagon Toyo.
  </p>
 </div>
 
