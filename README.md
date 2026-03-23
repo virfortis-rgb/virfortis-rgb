@@ -1,8 +1,8 @@
 ## Damien Joubert
-Ruby on Rails Full Stack Web Developper
+Full Stack Web Developper (Ruby on Rails )
 
-I've recently worked on the following projects:
-1. [Where's my Tofu?](https://github.com/virfortis-rgb/wheres-my-tofu)
+I started my [coding journey](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D) with ![Le Wagon Tokyo](https://www.lewagon.com/assets/lewagon-logo-square-ffe99941106de6d01c248f59bd1c999ad4f5f3da6e8922272c94764a3d2484cc.svg)
+
 
 <!--
 **virfortis-rgb/virfortis-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
