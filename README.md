@@ -1,13 +1,12 @@
-<div style="background-color: #152238;">
 <h2>Damien Joubert</h2>
 <p>Full Stack Web Developper (Ruby on Rails)</p>
 
- <p>
-   I started my 
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D" target="_blank">programming journey</a>
-  with Le Wagon Toyo.
- </p>
-</div>
+<p>
+ I started my 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D" target="_blank">
+   programming journey with Le Wagon Toyo.
+  </a>
+</p>
 
 <!--
 **virfortis-rgb/virfortis-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
