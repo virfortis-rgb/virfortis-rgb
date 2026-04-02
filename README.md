@@ -1,4 +1,4 @@
-## Damien Joubert | <p>Full Stack Web Developper</p>
+## Damien Joubert | Full Stack Web Developper
 
 
 #### **Backend & Database**
