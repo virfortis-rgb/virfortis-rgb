@@ -3,35 +3,31 @@
  <strong>Full Stack Web Developper (Ruby on Rails)</strong>
 </p>
 
-Languages & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css" />
-</p>
+My Tech Stack
 
-Database & Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-<img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=api&logoColor=white" height="48" />
-</p>
+#### **Backend & Database**
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=api&logoColor=white)
 
-DevOps & Cloud
-<p align="left">
-<img src="https://skillicons.dev/icons?i=heroku,cloudinary,git,github,bash" />
-</p>
+#### **Frontend & UI**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-5B2D90?style=flat&logo=hotwire&logoColor=white)
 
-AI & Styling
-<p align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://img.shields.io/badge/LLM-FF6F61?style=for-the-badge&logo=openai&logoColor=white" height="48" />
-</p>
+#### **Cloud, Tools & Version Control**
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=virfortis-rgb&show_icons=true&theme=dracula" alt="GitHub Stats" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virfortis-rgb&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+#### **AI Integration**
+![LLM](https://img.shields.io/badge/LLM_Integration-316192?style=flat&logo=openai&logoColor=white)
 
 <p>
  I started my 
