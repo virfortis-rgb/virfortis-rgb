@@ -1,5 +1,4 @@
-## Damien Joubert
-##### Full Stack Web Developper
+## Damien Joubert | <p>Full Stack Web Developper</p>
 
 
 #### **Backend & Database**
@@ -27,6 +26,6 @@
 ![LLM](https://img.shields.io/badge/LLM_Integration-316192?style=flat&logo=openai&logoColor=white)
 
 
-##### I started my [programming journey with Le Wagon Toyo.](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D)
+#### I started my [programming journey with Le Wagon Toyo.](https://www.linkedin.com/feed/update/urn:li:activity:7440214571241340928/?originTrackingId=n9%2FrBGV1ziqK8zjKD8lOgA%3D%3D)
 
    
