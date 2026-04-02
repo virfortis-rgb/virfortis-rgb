@@ -8,6 +8,14 @@
   </a>
 </p>
 
+<p>
+ Find me on  
+  <a href="https://www.linkedin.com/in/damien-j-423a25115/" target="_blank">
+   LinkedIn
+  </a>
+</p>
+
+
 <!--
 **virfortis-rgb/virfortis-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
