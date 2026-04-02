@@ -1,5 +1,7 @@
 <h2>Damien Joubert</h2>
-<strong>Full Stack Web Developper (Ruby on Rails)</strong>
+<p>
+ <strong>Full Stack Web Developper (Ruby on Rails)</strong>
+</p>
 
 <p>
  I started my 
