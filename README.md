@@ -1,5 +1,3 @@
-#### Damien Joubert | Full Stack Web Developper
-
 ##### **Backend & Database**
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
